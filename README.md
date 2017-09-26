@@ -21,7 +21,7 @@ sqlite3 database.db < schema.sql
 ```
 5. Execute the
 ```
-pythnon main.py
+pytnon main.py
 ```
 ## Issues
 Works great, but found that refreshing the page inserts the last user again.
